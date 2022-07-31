@@ -1,0 +1,17 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+.blog-name {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-family: 'roboto';
+}
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+}
